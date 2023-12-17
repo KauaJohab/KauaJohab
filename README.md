@@ -1,4 +1,8 @@
 # Olá! Eu sou o Kauã Johab👋🏾
+<div>
+    Construindo o futuro da tecnologia, um commit de cada vez.
+</div>
+<br/>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-johab/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaua_johab/)
@@ -18,17 +22,3 @@
     <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-
-## [Download Curriculo 📄](https://drive.google.com/u/0/uc?id=1nbKLMW3gbkQX3vByxda2fKlu3MI3dFD3&export=download)
-
-<div style="display: inline-block;
-      font-size: 16px;
-      color: #ff6600;
-      font-weight: bold;
-      padding: 5px 10px;
-      border: 2px solid #ff6600;
-      border-radius: 5px;
-      background-color: #fff;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    Construindo o futuro da tecnologia, um commit de cada vez.
-  </div>
